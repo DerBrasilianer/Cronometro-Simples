@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Criar um cronometro que inicie, pare e zere ao clicas nos botões com essas funçãos
+Criar um cronometro que inicie, pare e zere ao clicar nos botões com essas funções
 
 ## setInerval
 
